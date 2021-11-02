@@ -20,6 +20,6 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ## E-mail de contato:
-
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](alverindojr@hotmail.com)
-
+<div style="display: inline_block">
+	<img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</div>alverindojr@hotmail.com
